@@ -1,0 +1,2 @@
+#apify_api_token = "apify_api_XtxCDkOAgT1SD07gJmmUxkiWVoukQC0D4XIv"
+openai_api_key="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"
